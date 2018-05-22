@@ -1,0 +1,12 @@
+{
+    "name": "path-ultra",
+    "version": "0.0.1",
+    "private": false,
+    "author": "shukri.adams@gmail.com",
+    "description" : "Adds additional methods to Nodejs' path",
+    "repository" : "https://shukriadams@github.com/shukriadams/path-ultra.git",
+    "license": "MIT",
+    "dependencies" : {
+
+    }
+}
